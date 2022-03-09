@@ -43,12 +43,16 @@
 	},
 	"labels": [
 		{
-			"term": "RRB NTPC VOLUME 3",
-			"image": "https://i.ibb.co/sPLJxY0/rtrtr.png"
+			"term": "SK Jha Chemistry",
+			"image": "https://i.ibb.co/Yc26szS/1.png"
 		},
 		{
-			"term": "RRB NTPC MATHS VOLUME 4",
-			"image": "https://i.ibb.co/vvMcG2n/ntpcff.jpg"
+			"term": "SK Jha Physics",
+			"image": "https://i.ibb.co/BzsCFQD/2.png"
+		},
+		{
+			"term": "Sk Jha Biology",
+			"image": "https://i.ibb.co/8K8wqZx/3.png"
 		}
 		
 	]
