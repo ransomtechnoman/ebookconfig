@@ -22,7 +22,7 @@
 		"onesignal_app_id": "c4f6781a-89d7-4446-b223-ff50b8c414ca"
 	},
 	"ads": {
-		"ad_status": "0",
+		"ad_status": "1",
 		"ad_type": "admob",
 		"backup_ads": "none",
 		"admob_publisher_id": "pub-8936249544471578",
@@ -51,7 +51,7 @@
 			"image": "https://i.ibb.co/BzsCFQD/2.png"
 		},
 		{
-			"term": "Sk Jha Biology",
+			"term": "SK Jha Biology",
 			"image": "https://i.ibb.co/8K8wqZx/3.png"
 		}
 		
