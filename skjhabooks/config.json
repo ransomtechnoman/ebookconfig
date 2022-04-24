@@ -5,7 +5,7 @@
 	},
 	"app": {
 		"status": "1",
-		"show_book_detail_view": "false",
+		"show_book_detail_view": "true",
 		"show_related_book": "false",
 		"allow_save_book_in_storage": "true",
 		"swipe_horizontal_reading_book": "false",
@@ -39,7 +39,7 @@
 		"applovin_interstitial_ad_unit_id": "0",
 		"mopub_banner_ad_unit_id": "b195f8dd8ded45fe847ad89ed1d016da",
 		"mopub_interstitial_ad_unit_id": "24534e1901884e398f1253216226017e",
-		"interstitial_ad_interval": 5
+		"interstitial_ad_interval": 3
 	},
 	"labels": [
 		{
