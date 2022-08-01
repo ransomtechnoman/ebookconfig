@@ -1,0 +1,59 @@
+{
+	"blog": {
+		"blogger_id": "4962060344042195298",
+		"api_key": "AIzaSyCec2XuXHtf4MP9Zn8NfA9Uf5fex5T59NA"
+	},
+	"app": {
+		"status": "1",
+		"show_book_detail_view": "true",
+		"show_related_book": "false",
+		"allow_save_book_in_storage": "true",
+		"swipe_horizontal_reading_book": "false",
+		"show_scroll_handle_reading_book": "true",
+		"custom_label_list": "true"
+	},
+	"url": {
+		"more_apps_url": "https://play.google.com/store/apps/developer?id=Fikra+India+Developers",
+		"privacy_policy_url": "https://sites.google.com/view/bansalprivacypolicyapp/",
+		"redirect_url": ""
+	},
+	"notification": {
+		"fcm_notification_topic": "skjhabook_ebook_app_topic",
+		"onesignal_app_id": "c4f6781a-89d7-4446-b223-ff50b8c414ca"
+	},
+	"ads": {
+		"ad_status": "1",
+		"ad_type": "admob",
+		"backup_ads": "none",
+		"admob_publisher_id": "pub-8936249544471578",
+		"admob_app_id": "ca-app-pub-8936249544471578~2977816275",
+		"admob_banner_unit_id": "ca-app-pub-8936249544471578/8038571268",
+		"admob_interstitial_unit_id": "ca-app-pub-8936249544471578/2885520772",
+		"admob_native_unit_id": "ca-app-pub-8936249544471578/2403101207",
+		"admob_app_open_ad_unit_id": "ca-app-pub-8936249544471578/9898447849",
+		"startapp_app_id": "0",
+		"unity_game_id": "4089993",
+		"unity_banner_placement_id": "banner",
+		"unity_interstitial_placement_id": "video",
+		"applovin_banner_ad_unit_id": "0",
+		"applovin_interstitial_ad_unit_id": "0",
+		"mopub_banner_ad_unit_id": "b195f8dd8ded45fe847ad89ed1d016da",
+		"mopub_interstitial_ad_unit_id": "24534e1901884e398f1253216226017e",
+		"interstitial_ad_interval": 3
+	},
+	"labels": [
+		{
+			"term": "SK Jha Chemistry",
+			"image": "https://i.ibb.co/Yc26szS/1.png"
+		},
+		{
+			"term": "SK Jha Physics",
+			"image": "https://i.ibb.co/BzsCFQD/2.png"
+		},
+		{
+			"term": "SK Jha Biology",
+			"image": "https://i.ibb.co/8K8wqZx/3.png"
+		}
+		
+	]
+}
