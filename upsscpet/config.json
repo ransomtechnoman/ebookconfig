@@ -18,7 +18,7 @@
 		"redirect_url": ""
 	},
 	"notification": {
-		"fcm_notification_topic": "skjhabook_ebook_app_topic",
+		"fcm_notification_topic": "skjhabook_eboFok_app_topic",
 		"onesignal_app_id": "c4f6781a-89d7-4446-b223-ff50b8c414ca"
 	},
 	"ads": {
