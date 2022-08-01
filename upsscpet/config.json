@@ -19,7 +19,7 @@
 	},
 	"notification": {
 		"fcm_notification_topic": "skjhabook_eboFok_app_topic",
-		"onesignal_app_id": "c4f6781a-89d7-4446-b223-ff50b8c414ca"
+		"onesignal_app_id": "e2f21b5c-c8fa-4094-a531-5e09d8fd191c"
 	},
 	"ads": {
 		"ad_status": "0",
